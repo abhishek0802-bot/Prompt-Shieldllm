@@ -1,4 +1,4 @@
-![PromptShield LLM Banner](promptshield-banner.png)
+![PromptShield LLM Banner](<PromptShield LLM Cybersecurity Banner.png>)
 
 # 🛡️ PromptShield LLM
 ### Evaluating the Robustness of Prompt Injection Detectors under Distribution Shift
